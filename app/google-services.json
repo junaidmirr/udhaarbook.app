@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266291600004",
+    "project_id": "udhaarapp",
+    "storage_bucket": "udhaarapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266291600004:android:7ae727715b390c85f600d1",
+        "android_client_info": {
+          "package_name": "com.judev.udhaarbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEdy2Jf7zX6h1R4hFVfajWt6xXdUndevc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
